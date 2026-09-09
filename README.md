@@ -1,7 +1,5 @@
 # maven-repo
 
-Stores all builds for my open source projects.
-
 This repository is a plain **Maven repository**: it holds the released `.jar`
 files together with their `.pom` descriptors and checksums, in the directory
 layout Maven expects. Because GitHub serves raw files over
